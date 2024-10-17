@@ -1,0 +1,52 @@
+1. How would you reverse a string in JavaScript?
+2. Explain how to check if a given string is a palindrome.
+3. Write a function to find the factorial of a number.
+4. Implement a function to check if a number is prime.
+5. Describe how to remove duplicates from an array in JavaScript.
+6. Write a program to find the nth Fibonacci number.
+7. Explain how to swap two variables without using a temporary variable.
+8. Implement a function to check if two strings are anagrams.
+9. Write a program to generate the first N prime numbers.
+10. Explain how to find the largest element in an array.
+11. Write a function to check if a number is even or odd.
+12. Implement a function to reverse words in a sentence.
+13. Describe how to find the intersection of two arrays.
+14. Write a program to implement a simple calculator.
+15. Explain how to find the missing number in an array of 1 to N.
+16. Implement a function to check if a given year is a leap year.
+17. Write a program to find the common elements between two arrays.
+18. Explain how to check if a number is a power of two.
+19. Implement a function to rotate an array to the left by K positions.
+20. Write a program to calculate the sum of digits in a number.
+21. Describe how to implement a stack using arrays in JavaScript.
+22. Implement a function to check if a given number is a perfect square.
+23. Write a program to find the longest word in a sentence.
+24. Explain how to find the second largest element in an array.
+25. Implement a function to remove all white spaces from a string.
+26. Write a program to implement a queue using arrays in JavaScript.
+27. Describe how to implement a binary search algorithm.
+28. Implement a function to check if a number is Armstrong.
+29. Write a program to find the GCD (Greatest Common Divisor) of two numbers.
+30. Explain how to find the smallest element in a rotated sorted array.
+31. Implement a function to check if a given number is a strong number.
+32. Write a program to find the number of vowels in a string.
+33. Describe how to implement a linked list in JavaScript.
+34. Implement a function to check if a given matrix is symmetric.
+35. Write a program to find the average of numbers in an array.
+36. Explain how to implement a bubble sort algorithm.
+37. Implement a function to check if a string contains only digits.
+38. Write a program to check if a given number is a palindrome.
+39. Describe how to implement a depth-first search (DFS) algorithm.
+40. Implement a function to check if a matrix is sparse.
+41. Write a program to reverse the order of words in a sentence.
+42. Explain how to find the maximum product of two integers in an array.
+43. Implement a function to check if a given string has balanced parentheses.
+44. Write a program to find the HCF (Highest Common Factor) of two numbers.
+45. Describe how to implement a merge sort algorithm.
+46. Implement a function to check if a matrix is an identity matrix.
+47. Write a program to find the intersection of two linked lists.
+48. Explain how to implement a binary tree in JavaScript.
+49. Implement a function to check if a string is a valid JSON.
+50. Write a program to find the common elements in three arrays.
+
+These questions aim to assess logical thinking and problem-solving skills in the context of JavaScript programming.
